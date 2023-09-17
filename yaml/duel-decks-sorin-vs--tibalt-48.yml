@@ -1,0 +1,116 @@
+---
+object: card
+id: 0171e38f-b663-477b-970e-fce8f00321c7
+oracle_id: 5a29fe9f-89bf-405e-acf6-1b56435cb9ee
+multiverse_ids:
+- 368489
+mtgo_id: 48047
+mtgo_foil_id: 48048
+tcgplayer_id: 67844
+cardmarket_id: 260845
+name: Shambling Remains
+lang: en
+released_at: '2013-03-15'
+uri: https://api.scryfall.com/cards/0171e38f-b663-477b-970e-fce8f00321c7
+scryfall_uri: https://scryfall.com/card/ddk/48/shambling-remains?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.jpg?1592714500
+  normal: https://cards.scryfall.io/normal/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.jpg?1592714500
+  large: https://cards.scryfall.io/large/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.jpg?1592714500
+  png: https://cards.scryfall.io/png/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.png?1592714500
+  art_crop: https://cards.scryfall.io/art_crop/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.jpg?1592714500
+  border_crop: https://cards.scryfall.io/border_crop/front/0/1/0171e38f-b663-477b-970e-fce8f00321c7.jpg?1592714500
+mana_cost: "{1}{B}{R}"
+cmc: 3.0
+type_line: Creature — Zombie Horror
+oracle_text: |-
+  Shambling Remains can't block.
+  Unearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+power: '4'
+toughness: '3'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords:
+- Unearth
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 529a5259-8a88-4baf-86a0-cd88098c3ce7
+set: ddk
+set_name: 'Duel Decks: Sorin vs. Tibalt'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/529a5259-8a88-4baf-86a0-cd88098c3ce7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0171e38f-b663-477b-970e-fce8f00321c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a29fe9f-89bf-405e-acf6-1b56435cb9ee&unique=prints
+collector_number: '48'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: '089eb00a-fff5-4a7a-a0fb-e85b0df9c87b'
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20890
+penny_rank: 4399
+prices:
+  usd: '0.06'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368489
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shambling+Remains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shambling+Remains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shambling+Remains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67844?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shambling+Remains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48047?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

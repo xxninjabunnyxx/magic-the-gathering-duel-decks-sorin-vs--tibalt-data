@@ -1,0 +1,115 @@
+---
+object: card
+id: 18ed2ea8-614b-472d-979d-0d026895abca
+oracle_id: 04ea7e88-7ea5-4b4c-9a7c-2a6ac0bc0682
+multiverse_ids:
+- 368527
+mtgo_id: 48045
+mtgo_foil_id: 48046
+tcgplayer_id: 67817
+cardmarket_id: 260803
+name: Absorb Vis
+lang: en
+released_at: '2013-03-15'
+uri: https://api.scryfall.com/cards/18ed2ea8-614b-472d-979d-0d026895abca
+scryfall_uri: https://scryfall.com/card/ddk/31/absorb-vis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.jpg?1592714381
+  normal: https://cards.scryfall.io/normal/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.jpg?1592714381
+  large: https://cards.scryfall.io/large/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.jpg?1592714381
+  png: https://cards.scryfall.io/png/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.png?1592714381
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.jpg?1592714381
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/18ed2ea8-614b-472d-979d-0d026895abca.jpg?1592714381
+mana_cost: "{6}{B}"
+cmc: 7.0
+type_line: Sorcery
+oracle_text: |-
+  Target player loses 4 life and you gain 4 life.
+  Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Landcycling
+- Basic landcycling
+- Typecycling
+- Cycling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 529a5259-8a88-4baf-86a0-cd88098c3ce7
+set: ddk
+set_name: 'Duel Decks: Sorin vs. Tibalt'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/529a5259-8a88-4baf-86a0-cd88098c3ce7
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/18ed2ea8-614b-472d-979d-0d026895abca/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04ea7e88-7ea5-4b4c-9a7c-2a6ac0bc0682&unique=prints
+collector_number: '31'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brandon Kitkouski
+artist_ids:
+- 0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20
+illustration_id: 6195b952-a1c0-48f0-bd39-1531fe051d4d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15586
+penny_rank: 7355
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368527
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Absorb+Vis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Absorb+Vis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Absorb+Vis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67817?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Absorb+Vis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48045?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
